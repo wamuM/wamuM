@@ -1,49 +1,42 @@
 # wamu_M
+Hi! I go by wamu_M on the internet. 
 
-### Stuff I like:
-- Programing
-- Maths
-- Anime
-- Latin 
-- Jazz 
-- A cold glass of water
-<br/>
+I'm a CS student that wants to focus on the abstract mathy side academically but in my free time I play around with Linux and FOSS.
 
-### Curently working on:
-My CS degree and some odd projects here and there
-<br/>
+## Tech I've been dabbling with
+- [QubesOS](https://github.com/wamuM/qubes-salt)
+- [NixOS](https://github.com/wamuM/nixos-config)
+- Webdev with Rust and NodeJS
 
-### Projects I want to do:
-*Feel free to copy them*
-- Create a Qubes Air based home network 
-- Create a home server
-- Create a Qubes Salt configuration 
-- Further customize my neovim config 
-- Create a website with cool mini projects and other random stuff
+## Other stuff I do/like
+- Philosophy (considering a second degree in it)
+- Sailing
+- Climbing
+- Cheap low-quality internet martial arts novels
+- I've started studying Chinese!
 
-### My Setup
+## My Setup
 ```json
 {
     "IDE":"neovim",
-    "os":"qubes-os",
-    "prefered_languages":["C","C++","JS"],
+    "os":["qubes-os","NixOS"],
     "shell":"bash",
     "browser":"librewolf",
     "fileExplorer":null
 }
 ```
-More at my dotfiles repo.
-### Languages and tools I wish to learn how to use:
+More at my [dotfiles repo](https://github.com/wamuM/dotfiles)
+## Languages and tools I want to go deeper into:
 - Rust
-- C/C++
-- MathLab
-- Matrix 
-- The BlockChain (No speculation nonsense, I just like decentralization)
-### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wamuM&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wamuM&layout=compact&theme=radical)
-### Contact:
-[<img align="left" style="margin-right:10px" alt="[mail]" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+- Lean
+- Haskell
+- Meshtastic
+- Proxmox
+## Contact:
+email: [contact@wamu-m.com](mailto:contact@wamu-m.com)
 
-
-[mail]: mailto:contact@wamu-m.com
+I also have a [website](https://www.wamu-m.com) that I'm making.
+## PGP Key
+My [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) key 
+is available [here](https://keys.openpgp.org/vks/v1/by-fingerprint/AD2C2F137AC2D58A910F4A2028F93311056DAD8D) 
+(fingerprint: `AD2C2F137AC2D58A910F4A2028F93311056DAD8D`)
